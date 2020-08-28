@@ -28,7 +28,7 @@ By [Eugene Wang](https://www.linkedin.com/in/eugene-wang-494a3a1/)
 * Manage stakeholder engagement.
 * Provides visibility for you and your project.
 * Resolves conflicts or settle disagreements.
-* Communication style and effectiveness is usually na indicator of org culture.
+* Communication style and effectiveness is usually an indicator of org culture.
 
 ## What's stopping you from communicating effectively? 
 
@@ -63,8 +63,8 @@ Groups or individuals which you need to frequently communicate with include:
 
 ## Tips to effective stakeholder engagement
 
-* You are transparent about all relevant information (e.g. related to your project)
-* You communicate with stakeholders in ways (e.g. emails, documents, etc) that work best for them
+* You are transparent about all relevant information (e.g. related to your project).
+* You communicate with stakeholders in ways (e.g. emails, documents, etc) that work best for them.
 * Do NOT judge what your stakeholders value, instead try to understand why.
 * Provide feedback to stakeholders how their concerns or asks are addressed and resolved.
 * Keep a record of all stakeholder communication that occur over time.
@@ -97,7 +97,7 @@ Groups or individuals which you need to frequently communicate with include:
 | Use case | What problem are we trying to solve? | Allow business users to purchase multiple copies of a digital eBook.
 | Qualification and Quantification | Why is this problem important? | +xx% in total units of eBooks purchased (annualized).
 | Proposed Solution | What are we going to do to address this problem? | Launch a new eBook purchase experience that allows bulk purchase of eBooks. |
-| Success Measurements | How d owe know that your solution worked or not? | Net increase to total eBook sales without net negative impact to eBook purchase conversion. |
+| Success Measurements | How do we know that our solution worked or not? | Net increase to total eBook sales without net negative impact to eBook purchase conversion. |
 | Priorities and Timelines | When are we going to do what? | MVP includes... |
 
 ## Tips to be candid and open
@@ -122,7 +122,7 @@ Groups or individuals which you need to frequently communicate with include:
 ## Tips to control your emotions
 
 * Have clear goals in mind, e.g. what are you trying to get out of a conversation or meeting? 
-* Pause to collect your thoughts, e.g. don't feel that you need to ush into responding.
+* Pause to collect your thoughts, e.g. don't feel that you need to rush into responding.
 * Willing to compromise, e.g. finding a middle ground might be the path forward.
 * Look for humor in a dire situation, e.g. don't take yourself or a topic too seriously.
 * Agree to disagree, e.g. table a conversation that's not going anywhere to determine next course of action.
